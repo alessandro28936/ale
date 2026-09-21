@@ -1,0 +1,20 @@
+# Confidential / Internal Company Raw Data
+Kompas Gramedia/
+Ottopay/
+Sagara Technology/
+Joy Play Culture/
+Bootcamp Project MySkill/
+design/
+*.xlsx
+*.xls
+*.csv
+
+# Project Planning & Prompts
+PRD_Portfolio_Landing_Page_Alessandro.md
+*.log
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.agents/
