@@ -2,7 +2,7 @@
 
 **Digital Marketing | Social Media & Performance Ads | Creative Design | Copywriting**
 Cilincing, North Jakarta | +62 818-0543-8908 | [alessandro90136@gmail.com](mailto:alessandro90136@gmail.com)
-Portfolio: [linktr.ee/portfolio_alessandro](https://linktr.ee/portfolio_alessandro) | LinkedIn: [linkedin.com/in/ale-sandro](https://www.linkedin.com/in/ale-sandro/)
+Portfolio: [alessandro28936.github.io/ale/](https://alessandro28936.github.io/ale/) | LinkedIn: [linkedin.com/in/ale-sandro](https://www.linkedin.com/in/ale-sandro/)
 
 ---
 
